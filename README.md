@@ -1,6 +1,6 @@
 # nabu_speech
 
-ocumentation:
+Documentation:
 
 This program uses baidu deep speech library for speech to text conversion.
 
